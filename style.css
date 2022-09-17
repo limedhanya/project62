@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height: 8px;
+    width: 150px;
+    background-color: darkolivegreen;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+img:hover {
+    transform: scale(0.7);
+}
